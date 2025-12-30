@@ -1,0 +1,21 @@
+Rajkishor Spring Boot Platform – Commercial License
+
+Copyright (c) 2025 Rajkishor
+
+Permission is hereby granted to any individual or organization
+purchasing this product to use the software for personal or
+commercial projects.
+
+You are allowed to:
+✔ Use the code in personal or commercial projects
+✔ Modify the code for your needs
+✔ Deploy the code in production
+
+You are NOT allowed to:
+✘ Resell the code as-is
+✘ Redistribute the code as a template or boilerplate
+✘ Claim the code as your own product
+
+This license is valid only for the original purchaser.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

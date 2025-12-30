@@ -1,0 +1,68 @@
+############################
+# Maven / Gradle
+############################
+target/
+build/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+############################
+# Maven Wrapper
+############################
+.mvn/wrapper/maven-wrapper.jar
+
+############################
+# Logs
+############################
+*.log
+
+############################
+# Environment files (CRITICAL)
+############################
+.env
+*.env
+
+############################
+# IDEs
+############################
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+############################
+# OS files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Docker
+############################
+docker-compose.override.yml
+
+############################
+# GitHub
+############################
+.github/workflows/*.log
